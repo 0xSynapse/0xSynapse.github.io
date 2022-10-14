@@ -1,2 +1,4 @@
-# 0xSynapse.github.io
-Portfolio Website
+# Personal Portfolio ⚡️ 
+> A clean, beautiful, responsive portfolio template for Software Developers!
+
+> https://0xsynapse.github.io/
